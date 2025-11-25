@@ -1,6 +1,6 @@
 import { useState } from "react";
 import ShoppingList from "./ShoppingList";
-import Header from "./Header"
+import Header from "./Header";
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
